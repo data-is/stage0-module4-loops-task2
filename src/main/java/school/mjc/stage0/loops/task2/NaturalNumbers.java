@@ -9,13 +9,7 @@ public class NaturalNumbers {
                 num++;
             }
         }
-        else{
-            while(num >= lastPrinted){
-                System.out.println(num);
 
-                num--;
-            }
-        }
 
     }
 }

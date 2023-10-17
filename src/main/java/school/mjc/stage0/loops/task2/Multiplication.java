@@ -10,13 +10,6 @@ public class Multiplication {
             }
 
         }
-        else{
-            int num = 0;
-            while(num>=multiplyByAndToInclusive){
-                System.out.println(multiplyByAndToInclusive*=num);
 
-                num--;
-            }
-        }
     }
 }
