@@ -13,6 +13,7 @@ public class PowerOfTwo {
             int num=0;
             while(power<=num){
                 System.out.println(num*num);
+
                 num--;
             }
         }

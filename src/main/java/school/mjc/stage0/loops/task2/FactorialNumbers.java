@@ -8,6 +8,7 @@ public class FactorialNumbers {
             num=num*factorial;
             factorial++;
         }
+
         System.out.println(num);
     }
 }

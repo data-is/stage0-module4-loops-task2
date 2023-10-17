@@ -7,7 +7,8 @@ public class EvenNumbersPrinter {
             if(num % 2 ==0){
                 System.out.println(num);
             }
-           num++;
+
+            num++;
         }
     }
 }

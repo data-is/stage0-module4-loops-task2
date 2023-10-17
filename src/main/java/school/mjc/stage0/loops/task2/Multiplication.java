@@ -14,6 +14,7 @@ public class Multiplication {
             int num = 0;
             while(num>=multiplyByAndToInclusive){
                 System.out.println(multiplyByAndToInclusive*=num);
+
                 num--;
             }
         }

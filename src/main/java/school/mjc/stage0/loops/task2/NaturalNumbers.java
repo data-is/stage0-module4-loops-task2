@@ -12,6 +12,7 @@ public class NaturalNumbers {
         else{
             while(num >= lastPrinted){
                 System.out.println(num);
+
                 num--;
             }
         }

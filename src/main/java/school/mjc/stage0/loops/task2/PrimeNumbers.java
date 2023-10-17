@@ -13,6 +13,7 @@ public class PrimeNumbers {
                 numbForLoop++;
             }
             if(check==2){
+
                 System.out.println(zeroNum);
             }
             zeroNum++;

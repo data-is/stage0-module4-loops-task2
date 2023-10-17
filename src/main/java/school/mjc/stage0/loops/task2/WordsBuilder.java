@@ -6,6 +6,7 @@ public class WordsBuilder {
         int num = 0;
         while(num < chars.length){
             word+=chars[num];
+
         }
     }
 }
